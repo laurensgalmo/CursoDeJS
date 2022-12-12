@@ -1,0 +1,75 @@
+html{
+  background-color: #0077FE;
+  color: white;
+  font-family: century gothic;
+  font-size: 17px;
+}
+
+#title{
+  font-family: ubuntu;
+  font-size: 35px;
+  margin-bottom: -12px;
+  text-align: center;
+  padding-top: 23px;
+}
+
+#description{
+  text-align: center;
+}
+
+#survey-form{
+ background: #003C80;
+ width: 35%;
+ text-aling: center;
+ margin: auto;
+ border: 2px solid white;
+ padding-left: 40px;
+ border-radius: 5px;
+ border-width: 0px;
+ padding-top: 30px;
+ padding-bottom: 30px;
+}
+
+
+.submit-button {
+  text-align: center;
+  width: 94%;
+  padding: 0.75rem;
+  background: #02DFDF;
+  color: white;
+  border-radius: 5px;
+  border-width: 0px;
+  cursor: pointer;
+  margin: auto;
+  font-size: 16px;
+  family-font: century gothic;
+}
+
+.selectores{
+  padding: 5px 8px;
+  width: 91%;
+  border-radius: 3px;
+  border-width: 0px;
+  background-color: white;
+  display: block;
+  height: 30px;
+}
+
+.input{
+  padding: 5px 8px;
+  width: 88%;
+  border-radius: 3px;
+  border-width: 0px;
+  background-color: white;
+  display: block;
+  height: 20px;
+}
+
+
+.comments{
+  border-radius: 5px;
+  width: 90%;
+  height: 100px;
+
+}
+
